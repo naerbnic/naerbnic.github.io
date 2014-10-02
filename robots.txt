@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://naerbnic.github.io/sitemap.xml 
