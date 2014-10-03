@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Parser Generators | Brian Chin]]></title>
   <link href="http://naerbnic.github.io/blog/categories/parser-generators/atom.xml" rel="self"/>
   <link href="http://naerbnic.github.io/"/>
-  <updated>2014-10-03T11:44:05-07:00</updated>
+  <updated>2014-10-03T11:46:00-07:00</updated>
   <id>http://naerbnic.github.io/</id>
   <author>
     <name><![CDATA[Brian Chin]]></name>
@@ -19,6 +19,9 @@
     <updated>2014-10-03T10:30:49-07:00</updated>
     <id>http://naerbnic.github.io/blog/2014/10/03/we-need-a-new-parser-generator</id>
     <content type="html"><![CDATA[<p>I think it&rsquo;s about time for a new parser generator.</p>
+
+<!-- more -->
+
 
 <p>Yes, I realize that words to this effect have caused more tears than Old
 Yeller, and have been the source of more than a little of the world&rsquo;s
