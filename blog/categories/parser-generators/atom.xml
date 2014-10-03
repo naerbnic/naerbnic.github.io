@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Brian Chin]]></title>
-  <link href="http://naerbnic.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Parser Generators | Brian Chin]]></title>
+  <link href="http://naerbnic.github.io/blog/categories/parser-generators/atom.xml" rel="self"/>
   <link href="http://naerbnic.github.io/"/>
   <updated>2014-10-03T11:44:05-07:00</updated>
   <id>http://naerbnic.github.io/</id>
