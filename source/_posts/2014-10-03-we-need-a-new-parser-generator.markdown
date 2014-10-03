@@ -9,6 +9,8 @@ categories:
 
 I think it's about time for a new parser generator.
 
+<!-- more -->
+
 Yes, I realize that words to this effect have caused more tears than Old
 Yeller, and have been the source of more than a little of the world's
 [digital ills](http://xkcd.com/927/), but I'm pretty sure I'm speaking the
